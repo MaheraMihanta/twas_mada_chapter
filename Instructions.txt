@@ -1,0 +1,11 @@
+## Travail à faire
+1. Créer un site vitrine, pour twas madagascar chapter
+2. Dans ce site il y aura les onglets suivant :
+	2.1 Home : Présentation , historique (Histoire de Albert Rakoto Ratsimamanga et son épouse suzanne, et de Professeur Raoelina Andriambololona fondateur de INSTN, ce sont les piliers fondateurs de TWAS Madagascar Chapter) actuellement, Pr Raoelina est le seul restant, il a 90 ans, le président actuel De Twas MC est le professeur JONAH Ratsimbazafy. Les nouveaux membres de bureau de twas mc ont été nommé dernièrement, l'objectif ULTIME : regrouper les chercheurs de MADAGASCAR
+	2.2 Activités : dédiées aux activités à venir de Twas MC : Très prochainement célébration du 90ème anniversaire de Pr Raoelina, Conférences et échanges sur l'intelligence artificielle, comment mettre à profit l'IA en dépit des ressources matérielles limitées? Avenir de la mécanique quantique à Madagascar.
+	2.3 Dédiés aux chercheurs qui veulent soumettre des résultats de recherches, permettant de remplir des formulaires et donner à priori des informations sur des recherches effectuées
+
+## Skills
+1. Codez en react, hébergement sur vercel pour un test de déploiement pour soumettre aux membres de Twas MC pour validation, si besoin, utilisez django pour la base de données, je vais héberger avec pythonanywhere, dans le but de récupérer les informations des chercheurs.
+2. Faites simple d'abord.
+3. Code couleur : drapeau Malgache
